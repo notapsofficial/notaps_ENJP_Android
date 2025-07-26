@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.notaps.enjp_android_2">
     <application
-        android:label="notaps_study_enjp_android_2"
+        android:label="Learn Japanese with notaps"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
